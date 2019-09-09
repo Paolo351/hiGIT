@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 30A4-B629
+
+ Directory of C:\Users\PawelC\Desktop
+
+07/30/2019  10:04 AM    <DIR>          .
+07/30/2019  10:04 AM    <DIR>          ..
+07/29/2019  01:11 PM               476 dysk C.lnk
+07/30/2019  09:50 AM                68 hello.cmd
+07/29/2019  11:58 AM       145,071,008 jdk-7u80-windows-i586.exe
+07/30/2019  10:04 AM                 0 lista.txt
+07/30/2019  08:14 AM               235 sciezki.txt
+               5 File(s)    145,071,787 bytes
+               2 Dir(s)  10,249,789,440 bytes free
